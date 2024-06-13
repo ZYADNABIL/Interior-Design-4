@@ -1,0 +1,132 @@
+body{
+    margin: 0;
+}
+img{
+    width: 100%;
+}
+.container{
+    padding: 50px 30px ;
+    margin: 0 20px;
+}
+.left{
+    float: left;
+    width: 20%;
+    background-color: red;
+    
+    position: fixed;
+}
+.one{
+    padding-top: 50;
+    padding-bottom: 50;
+    color: white;
+    font-size: xx-large;
+    padding-left: 30;
+}
+.second{
+    padding-left: 30;
+    color: white;
+    font-size: x-large;
+}
+
+.second:hover{
+    background-color: white;
+    color: black;
+    height: 30;
+    width: 50%;
+}
+.padding{
+    padding-bottom: 350;
+}
+.clear{
+    clear: both;
+}
+.main{
+    float: right;
+    width: 80%;
+}
+.red{
+    color: red;
+    font-size: xx-large;
+}
+hr{
+    width: 50px;
+    height: 10;
+    background-color: red;
+    border-radius: 30%;
+    margin: 0;
+    
+    
+    
+}
+.images{
+    float: left;
+    width: 50%;
+    padding-top: 50;
+    
+}
+.new{
+    color: red;
+    padding-top: 30;
+    font-size: xx-large;
+}
+
+.desc{
+    background-color: lightgrey;
+    padding-bottom: 100;
+}
+.background{
+    background-color:#f1f1f1;
+    float: left;
+    width: 33.3333333333%;
+}
+span{
+    color:lightgray;
+}
+.list{
+    list-style: none;
+}
+.dark{
+    background-color: darkgray;
+    padding: 35px;
+    color: white;
+    text-align: center;
+}
+.package{
+    float: left;
+    width: 50%;
+}
+.li{
+    background-color: lightgray;
+    padding: 25;
+    text-align: center;
+}
+li.span2:hover {
+    color: white;
+    background-color: black;
+    padding: 25;
+    text-align: center;
+}
+.red2{
+    background-color: red;
+    padding: 35px;
+    color: white;
+    text-align: center; 
+}
+.footer{
+    background-color: lightgray;
+    padding-top: 50;
+    padding-bottom: 50;
+}
+.last{
+    direction: rtl;
+    padding-right: 20;
+}
+a{
+    color: grey;
+}
+
+.area{
+    margin-right: 15px;
+    
+}
+
